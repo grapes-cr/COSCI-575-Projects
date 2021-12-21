@@ -1,0 +1,15 @@
+111	Al Clark	38	45.5	4	M
+123	Joyce Itin	120	77	3	M
+156	Vahid Hamidi	15	25	3	M
+200	Melody Jung	27	60.6	1	M
+245	Joahn Garcia	-25	-3	-3	M
+270	Vera Moroz	23	72	3	N
+300	Robert Innes	19.85	40	1	S
+320	Mark Armstrong	-25	23	5	M
+330	Ashton Williams	15	15.69	-6	S
+350	Angela Klein	0	54.32	6	S
+400	Jerry Smith	168.5	36.5	2	S
+410	Leslie McHenry	68	95.63	1	S
+444	Morgan Stock	72	99	2	S
+475	Nick Lee	15	5	1	S
+490	Mary Jones	45	75.36	2	S
